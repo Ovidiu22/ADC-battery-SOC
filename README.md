@@ -5,4 +5,5 @@
  
  The small project was developed in Atmel Studio.
  
- Schematic and content follow.
+
+![Schematic](https://user-images.githubusercontent.com/75970114/150407231-4d616aa8-403b-45c6-839e-17ec09bda87d.png)
