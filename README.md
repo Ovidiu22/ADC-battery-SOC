@@ -59,6 +59,6 @@ This project is open-source and intended for **educational and embedded developm
 
 ---
 
-Schematics
+## Schematics
 
 ![Schematic](https://user-images.githubusercontent.com/75970114/150407231-4d616aa8-403b-45c6-839e-17ec09bda87d.png)
